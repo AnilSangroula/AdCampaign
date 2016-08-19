@@ -20,5 +20,5 @@ Data can be posted at http://localhost:8080/ad/ with JSON format as:
 }
 }
 
-Data can be retrived with partner_id at http://localhost:8080/ad/<partner_id>
+Data can be retrived with partner_id at http://localhost:8080/ad/flood-campaign
 
